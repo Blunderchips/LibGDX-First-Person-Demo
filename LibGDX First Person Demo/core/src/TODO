@@ -1,0 +1,77 @@
+************************************
+* TTTTTTT  OOOOOOO  DDD    OOOOOOO *
+*   TTT    O     O  D  D   O     O *
+*   TTT    O     O  D   D  O     O *
+*   TTT    OOOOOOO  DDDD   OOOOOOO *
+************************************
+
+Great game are not made, they are played
+
+- debug mode
+- make to do list
+- make RAND thread safe
+- fix jump?
+- bunny hopping
+- make playable
+- randomly generated music
+
+================================================================================
+
+Ideas:
+======
+
+- trailer play on intro screen after some time has elapsed (dead space like)
+
+- when a bot dies and player is looking at it freeze the game for a frame, don't
+  if many are dying and if multiple die in AOE freeze once. 
+
+- frame rates -> {30; 48; 60; 128; 256; 512; 1024; 2048; 4096; 8192; unlimited}
+
+- Weapons
+    * ...usual line-up of melee, pistol, shotgun, machine gun, rocket launcher,
+    overpowered exotic thing that you never get ammo for and only use in boss 
+    fights anyway - Yahtzee
+
+    * http://quake.wikia.com/wiki/Category:Quake_III_Arena_weapons
+
+
+Other:
+======
+* Kishōtenketsu
+  Yonkoma
+  Ketek
+
+* menus - http://kotaku.com/5955855/the-ten-commandments-of-video-game-menus
+    For there are but a few basic types of menus, and we shall agree on what goes
+    here. Subtitle toggling shall forever go under audio, not video video, not 
+    audio. (Okay, we art convinced.) Y-axis inversion shall forever go under controls,
+    not gameplay. Difficulty and violence filters shall be placed under gameplay, 
+    however. PC games shall condense the "video" and "graphics" menus into one menu
+    called "video," because we think we can all agreeth that we do not need two menus
+    for video options and that "graphics" is a silly term.
+
+* http://www.pcgamer.com/the-eula-that-pc-gamers-deserve/
+
+close messages:
+---------------
+This is no message! Page intentionally left blank. 
+Don't quit now! We're still spending your money!
+You want to quit? Then, thou hast lost an eighth!
+Get outta here and go back to your boring programs. 
+You're lucky I don't smack you for thinking about leaving. 
+Just leave. When you come back, I'll be waiting with a bat.
+Are you sure you want to quit this great game? 
+I wouldn't leave if I were you, life is much worse. 
+You're trying to say you like tumbr better than me, right?
+Porn break?
+This is where it had to end.
+I'd been here before too many times. 
+Better to live a lie than face the truth.
+But you can't give up now!
+But there are still too many questions left unanswered...
+Go ahead and leave. See if I care. 
+
+================================================================================
+
+ALGORITHM
+A word used by programmers when they do not want to explain what they did.

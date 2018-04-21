@@ -1,0 +1,16 @@
+{
+    "lessons": [
+        {
+            "id": 1,
+            "discipline": "??????????",
+            "type": "LECTURE",
+            "comment": "no comments"
+        },
+        {
+            "id": 2,
+            "discipline": "???. ??",
+            "type": "LECTURE",
+            "comment": "no comments"
+        }
+    ]
+}
